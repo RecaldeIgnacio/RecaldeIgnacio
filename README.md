@@ -3,9 +3,9 @@
 <img align="right" width="400" src="[https://www.behance.net/gallery/27075137/-Working-time-gif-animation](https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif)">
 
 <h4 align="center">
-- 🌱 I’m currently learning: HTML - CSS - JS  
+ 🌱 I’m currently learning: HTML - CSS - JS  
 
-- 📫 How to reach me **nrecalde902@gmail.com**
+ 📫 How to reach me **nrecalde902@gmail.com**
 </h4>
 
 <h3 align="center">Languages and Tools:</h3>
